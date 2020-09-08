@@ -75,7 +75,7 @@ h1 {
 /* Footer */
 
 .footer {
-    background-color: #333;
+    background-color: #222;
     width: 100%;
     margin-top: 10px;
     margin-bottom: 0px;
@@ -162,4 +162,19 @@ li.nav-social a {
 
 img.uk-cover {
     width: 100%;
+}
+
+.footer .uk-container .uk-card {
+    font-family: 'Assistant';
+    padding-left: 25%;
+}
+
+.footer a {
+  color: red;
+  
+}
+
+.footer li {
+    list-style: none;
+    list-style-position: unset;
 }
