@@ -159,3 +159,7 @@ h1 {
 li.nav-social a {
     font-size: 24px;
 }
+
+img.uk-cover {
+    width: 100%;
+}
