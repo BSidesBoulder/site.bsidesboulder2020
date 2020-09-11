@@ -8,21 +8,24 @@ url: "/Workshops/"
 # Capture the Flag with Elastic - BSides Boulder
 
 **Event name:** Capture the Flag with Elastic
+
 **Date:** Sat, 10/10/2020, ??? Mountain Time
+
 **Duration:** 2 hours
 
 ## Facilitators
 
 David French, Senior Security Research Engineer, @threatpunter
+
 Matteo Rebeschini, Security Specialist, @mrebeschini
 
 ## Description
 
-During this Capture the Flag (CTF) event, you will use Elastic Security to investigate a realistic attack scenario. Your organization is breached. You will receive a threat intelligence report that provides details of how a partner company was recently compromised. Your goal is to investigate and identify evidence of the threat group’s malicious behavior.
+During this Capture the Flag (CTF) event, you will use Elastic Security to investigate a realistic attack scenario. Your organization is breached. You will receive a threat intelligence report that provides details of how a partner company was recently compromised. Your goal is to investigate and identify evidence of the threat group's malicious behavior.
 
 The cybersecurity community has embraced the free and open Elastic Stack (also known as ELK) that provides search and analytics capabilities required by security operations and threat hunting teams. Elastic Security is built on top of the Elastic Stack and combines SIEM and Endpoint Security, and includes our free detection rules.
 
-If you haven’t used Elastic Security before, don’t worry, we’ll provide a short demonstration before beginning the CTF.
+If you haven't used Elastic Security before, don't worry, we'll provide a short demonstration before beginning the CTF.
 
 ## Attendee Prerequisites
 
