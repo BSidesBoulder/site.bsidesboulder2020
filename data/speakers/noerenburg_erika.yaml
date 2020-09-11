@@ -1,10 +1,12 @@
 speaker:
   first_name: Erika
   last_name: Noerenburg
-  title: Senior Threat Researcher
-  company: VMWare Carbon Black
+  title: ""
+  company: ""
   twitter: gutterchurl
-  bio:
-  session_title:
-  photo: unknown.jpg
+  bio: " Erika Noerenberg is currently surviving 2020, honing such survival skills as home haircuts and mask sewing. Most recently a Senior Threat Researcher with VMware Carbon Black’s Threat Analysis Unit, Erika has over 15 years of experience in the security industry specializing in digital forensics, malware analysis, and software development.
+
+Previously, she worked as a malware analyst at LogRhythm Labs and as a forensic analyst and reverse engineer for the Defense Cyber Crime Center (DC3), performing system and malware examinations in support of intrusions investigations for the Department of Defense and FBI."
+  session_title: "Pentesting the self: Hacking Failure for Success"
+  photo: noerenburg_erika.jpg
   keynote_speaker: True
