@@ -9,7 +9,7 @@ url: "/Workshops/"
 
 **Event name:** Capture the Flag with Elastic
 
-**Date:** Sat, 10/10/2020, ??? Mountain Time
+**Date:** Sat, 10/10/2020, 10:30 Mountain Time
 
 **Duration:** 2 hours
 
