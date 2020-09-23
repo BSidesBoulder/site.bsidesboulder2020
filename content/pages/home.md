@@ -33,19 +33,14 @@ being a change to make sure that we were fully prepared for that to happen, now
 we have contingency plans in place to make sure that we are going to be able to
 offer you a good experince no matter what happens.
 
-## How you will view the Conference 
-
-If you have registered with eventbrite, before the event you will get a link to
-the two streams.  They will be hosted over Youtube so that we make sure we have
-the best oppertunity to get the best quality out to the highest number of
-people.
-
 ## How can I participate?
 
-So glad that you asked, we will be hosting several channels in the BSidesBoulder
-discord server.  We are going to work to have all of the elements to bring it as
-close to the in person experince as we could get without having actual people in
-a building.
+We will be streaming the conference on YouTube Live, via [our YouTube
+channel](https://www.youtube.com/channel/UCRUmseZMk79gcQdNga3DEHQ).
+Additionally, folks who signed up and donated to the event via Eventbrite (now
+closed) will be given access to the BSides Boulder Discord server to chat and to
+ask the speakers questions. We're working to have all of the elements to bring
+BSides as close to the in-person experience as possible!
 
 ## Volunteering
 
