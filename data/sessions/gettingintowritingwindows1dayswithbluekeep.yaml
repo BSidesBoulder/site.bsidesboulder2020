@@ -1,11 +1,11 @@
 ---
 session:
-  name: Getting into Writing Windows 1-days with BlueKeep
+  name: Writing Windows N-Days
   sessionid: gwwb
   abstract: |
-    Analysis of the BlueKeep exploit and how it works. Demonstrate the tools and approach I utilized to write a fully functional Win7 exploit prior to any public code release.  Use this example to show how other people can get into Windows Kernel Exploitation.
+    Analysis of three Windows N-day exploits (BlueKeep, CVE-2020-1015, CVE-2020-1054). Demonstrate the tools and approach utilized to analyze the vulnerabilities and write the exploits prior to any public code release. Use these examples to show how other people can get into Windows Kernel Exploitation.
   description: |
-    The talk will start with an intro into BlueKeep and a brief overview for people unfamiliar with the topic. The talk will cover all phases of the exploitation process from identifying the vulnerability to writing a fully functional exploit. During the talk an emphasis will be placed on the tools and approach I used to write a the exploit prior to any public exploit code release. It will provide resources that I found to be invaluable during my research. 
+    The talk will start with an intro into Windows N-days for people unfamiliar with the topic. The talk will cover all phases of the exploitation process from identifying the vulnerability to writing a fully functional exploit. During the talk an emphasis will be placed on the tools and approaches used to determine the vulnerability and develop the exploit prior to public exploit code release.
 
     The overarching goal will attempt to show how anyone interested can get into windows kernel exploitation.
   presenters:
