@@ -15,7 +15,7 @@ session:
 
     In addition to studying the BlueKeep vulnerability exploitation, we will inspect many of the other tactics observed in the incident, including exploitation tools like Koadic, LazyKatz, and Powerline. 
 
-    Koadic is a post exploitation tool that uses trusted Microsoft applications to perform nefarious actions, a method used for bypassing application whitelisting. Known as a form of a “Living off the Land” attack, it is an effective and powerful way to attempt to circumvent traditional security controls.
+    Koadic is a post exploitation tool that uses trusted Microsoft applications to perform nefarious actions, a method used for bypassing application whitelisting. Known as a form of a "Living off the Land" attack, it is an effective and powerful way to attempt to circumvent traditional security controls.
 
     Powerline is a tool that was created in an effort to covertly run Powershell scripts undetected because it doesn't call Powershell directly. When coupled with the use of LazyKatz, an attacker has a set of tools that will aid in scraping user credentials and exfiltrating data.
 
