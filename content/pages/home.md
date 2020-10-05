@@ -11,7 +11,11 @@ url: "/home/"
 
 {{< twitter >}}
 
-# BSides is coming to Boulder!
+## Latest updates
+
+**10/5/2020**: Our Discord server is live! Join at https://discord.gg/tn4pukS
+
+## BSides is coming to Boulder!
 
 Good news everybody....
 
