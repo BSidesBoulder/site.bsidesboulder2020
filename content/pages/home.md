@@ -13,7 +13,7 @@ url: "/home/"
 
 ## Latest updates
 
-**10/5/2020**: Our Discord server is live! Join at https://discord.gg/tn4pukS
+**10/5/2020**: Our Discord server is live! Join at https://discord.gg/Fn6XJkD
 
 ## BSides is coming to Boulder!
 
