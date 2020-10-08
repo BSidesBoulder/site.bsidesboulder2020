@@ -32,10 +32,10 @@ theme = "bsb2020v2"
     url = "/sessions/"
     weight = -100
 [[menu.main]]
-    identifier = "workshops"
-    name = "Workshops"
+    identifier = "ctf"
+    name = "CTF"
     pre = "<i class='fa fa-network-wired'></i>"
-    url = "/workshops/"
+    url = "/ctf/"
     weight = -100
 [[menu.main]]
     identifier = "vols"
