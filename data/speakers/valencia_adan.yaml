@@ -1,0 +1,10 @@
+speaker:
+  first_name: Adan
+  last_name: Valencia
+  title: Senior Threat Analyst
+  company: VMWare Carbon Black
+  twitter: ""
+  bio: "Adan Valencia is a Senior Threat Analyst with VMware Carbon Black's Managed Detection team, where he focuses on hunting threats and remediating customer's environments. In this position he has been able to see a gamut of emerging threats, new behaviors, and tried-and-true methods.  With 3 years of experience in the infosec world, previously working as a Security Analyst in the oil and gas industry, Adan has been successful in the field and is excited to discuss malware to anyone interested in the subject!"
+  session_title: "Wild Blue Yonder: Dissecting the BlueKeep Windows Exploit"
+  photo: valencia_adan.jpg
+  keynote_speaker: False
